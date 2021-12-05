@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="C:/Users/hedae/Downloads/Selenium(failed)">
+    <classes>
+      <class name="testNG.TestNG">
+        <methods>
+          <include name="orderHandel"/>
+          <include name="placingOrder"/>
+          <include name="getURL"/>
+        </methods>
+      </class> <!-- testNG.TestNG -->
+    </classes>
+  </test> <!-- C:/Users/hedae/Downloads/Selenium(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
